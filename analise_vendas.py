@@ -1,6 +1,6 @@
 # ============================================================
 #   PROJETO DE ANÁLISE DE DADOS - PORTFÓLIO PROFISSIONAL
-#   Autor: SEU NOME
+#   Autor: João Vitor de Oliveira Mariano
 #   Objetivo: Analisar dados de vendas de forma completa
 # ============================================================
 
