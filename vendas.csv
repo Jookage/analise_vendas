@@ -1,0 +1,51 @@
+id_venda,data,produto,categoria,quantidade,preco,custo_unitario,cidade,vendedor,pagamento,valor_total,lucro
+1,2025-01-01,Teclado Mecânico,Eletrônicos,2,250,170,São Paulo,Marcos Silva,Cartão,500,160
+2,2025-01-01,Mouse Óptico,Eletrônicos,1,90,40,Rio de Janeiro,Ana Rocha,PIX,90,50
+3,2025-01-01,Monitor 24,Eletrônicos,1,750,520,Curitiba,Julia Castro,Cartão,750,230
+4,2025-01-02,Headset Gamer,Eletrônicos,1,280,190,São Paulo,Fernando Alves,Dinheiro,280,90
+5,2025-01-02,Notebook Pro 15,Eletrônicos,1,4200,3300,Porto Alegre,Daniel Souza,Cartão,4200,900
+6,2025-01-02,Impressora Laser,Eletrônicos,1,980,720,Belo Horizonte,Aline Duarte,PIX,980,260
+7,2025-01-03,Camiseta Premium,Vestuário,3,70,30,Salvador,Pedro Lima,Dinheiro,210,120
+8,2025-01-03,Calça Jeans,Vestuário,2,130,65,Fortaleza,Marina Dias,Cartão,260,130
+9,2025-01-03,Jaqueta Couro,Vestuário,1,350,210,São Paulo,Marcos Silva,PIX,350,140
+10,2025-01-04,Tênis Corrida,Esportes,1,420,260,Rio de Janeiro,Ana Rocha,Cartão,420,160
+11,2025-01-04,Bola Futebol,Esportes,2,90,40,Curitiba,Julia Castro,PIX,180,100
+12,2025-01-04,Bicicleta Alumínio,Esportes,1,1800,1350,Salvador,Pedro Lima,Cartão,1800,450
+13,2025-01-05,Cadeira Escritório,Mobiliário,1,760,540,São Paulo,Fernando Alves,Cartão,760,220
+14,2025-01-05,Mesa Escritório,Mobiliário,1,1350,900,Rio de Janeiro,Ana Rocha,PIX,1350,450
+15,2025-01-05,Armário Aço,Mobiliário,1,890,620,Fortaleza,Marina Dias,Dinheiro,890,270
+16,2025-01-06,Smartphone X,Eletrônicos,1,2100,1600,Belo Horizonte,Aline Duarte,Cartão,2100,500
+17,2025-01-06,Carregador Turbo,Eletrônicos,2,120,70,Porto Alegre,Daniel Souza,PIX,240,100
+18,2025-01-06,Cabo USB-C,Eletrônicos,3,45,15,São Paulo,Marcos Silva,Dinheiro,135,90
+19,2025-01-07,Livro Gestão,Educação,2,60,30,Rio de Janeiro,Ana Rocha,Cartão,120,60
+20,2025-01-07,Apostila TI,Educação,1,80,40,Curitiba,Julia Castro,PIX,80,40
+21,2025-01-07,Curso Online Python,Educação,1,350,0,Online,Equipe Digital,Cartão,350,350
+22,2025-01-08,Relógio Luxo,Acessórios,1,980,600,São Paulo,Fernando Alves,PIX,980,380
+23,2025-01-08,Óculos Sol,Acessórios,1,260,110,Belo Horizonte,Aline Duarte,Cartão,260,150
+24,2025-01-08,Mochila Couro,Acessórios,1,340,180,Porto Alegre,Daniel Souza,Dinheiro,340,160
+25,2025-01-09,Smartwatch S,Eletrônicos,1,890,580,Rio de Janeiro,Ana Rocha,PIX,890,310
+26,2025-01-09,Teclado Simples,Eletrônicos,3,60,30,Curitiba,Julia Castro,Cartão,180,90
+27,2025-01-09,HD 1TB,Eletrônicos,1,320,210,Fortaleza,Marina Dias,Dinheiro,320,110
+28,2025-01-10,SSD 500GB,Eletrônicos,1,420,300,São Paulo,Marcos Silva,PIX,420,120
+29,2025-01-10,Pen Drive 64GB,Eletrônicos,2,45,15,Rio de Janeiro,Ana Rocha,Cartão,90,60
+30,2025-01-10,Webcam Full HD,Eletrônicos,1,210,120,Salvador,Pedro Lima,Cartão,210,90
+31,2025-01-11,Moletom Canguru,Vestuário,2,150,75,Belo Horizonte,Aline Duarte,PIX,300,150
+32,2025-01-11,Bermuda Jeans,Vestuário,1,90,40,São Paulo,Fernando Alves,Cartão,90,50
+33,2025-01-11,Blusa Feminina,Vestuário,2,70,25,Curitiba,Julia Castro,Dinheiro,140,90
+34,2025-01-12,Raquete Tênis,Esportes,1,380,250,Rio de Janeiro,Ana Rocha,Cartão,380,130
+35,2025-01-12,Tênis Skate,Esportes,1,320,180,São Paulo,Marcos Silva,PIX,320,140
+36,2025-01-12,Capacete Ciclismo,Esportes,1,260,120,Porto Alegre,Daniel Souza,Dinheiro,260,140
+37,2025-01-13,Notebook Air 13,Eletrônicos,1,3500,2600,Curitiba,Julia Castro,Cartão,3500,900
+38,2025-01-13,Monitor 27,Eletrônicos,1,1150,820,Fortaleza,Marina Dias,PIX,1150,330
+39,2025-01-13,Teclado Gamer RGB,Eletrônicos,1,320,200,São Paulo,Fernando Alves,Dinheiro,320,120
+40,2025-01-14,Mouse Gamer,Eletrônicos,1,140,90,Rio de Janeiro,Ana Rocha,Cartão,140,50
+41,2025-01-14,Headset Studio,Eletrônicos,1,450,320,Salvador,Pedro Lima,PIX,450,130
+42,2025-01-14,Microfone Condensador,Eletrônicos,1,380,210,Belo Horizonte,Aline Duarte,Cartão,380,170
+43,2025-01-15,Mala Viagem,Acessórios,1,420,260,Porto Alegre,Daniel Souza,Dinheiro,420,160
+44,2025-01-15,Carteira Couro,Acessórios,2,90,40,São Paulo,Marcos Silva,PIX,180,100
+45,2025-01-15,Cinto Masculino,Acessórios,1,70,30,Rio de Janeiro,Ana Rocha,Cartão,70,40
+46,2025-01-16,Curso Excel,Educação,1,290,0,Online,Equipe Digital,PIX,290,290
+47,2025-01-16,Curso Power BI,Educação,1,350,0,Online,Equipe Digital,Cartão,350,350
+48,2025-01-16,Livro Tecnologia,Educação,1,110,45,Curitiba,Julia Castro,Dinheiro,110,65
+49,2025-01-17,Caneca Cerâmica,Utilidades,2,40,14,São Paulo,Marcos Silva,PIX,80,52
+50,2025-01-17,Panela Inox,Utilidades,1,220,120,Rio de Janeiro,Ana Rocha,Cartão,220,100
